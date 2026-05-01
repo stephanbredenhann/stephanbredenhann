@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 Third year Information Systems student at the University of Pretoria
 
 
