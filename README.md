@@ -10,8 +10,4 @@
 
 
 
-<div align="center">
-  <i>"Now I am become Death, the destroyer of tokens"</i>
-  <br>
-  <b>— Stephan Brednehann</b>
-</div>
+
